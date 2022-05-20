@@ -11,6 +11,7 @@
 ## Awesome Course
 
 * [Decentralized Finance From UC Berkeley](https://berkeley-defi.github.io/f21)
+* [Decentralized Finance From UC Berkeley, YouTube Videos](https://www.youtube.com/watch?v=gAWGm2lpVNo)
 * [Blockchain At BerkeleyX](https://www.youtube.com/c/BlockchainatBerkeleyX/videos)
 * [Blockchain Technologies From Stanford](https://cs251.stanford.edu/syllabus.html)
 * [Web3 DApp Best Programming Practice Guide From GuoYu](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)
@@ -25,6 +26,7 @@
 * [Vitalik Buterin](https://vitalik.ca/)
 * [REKT Feed](https://feed.rekt.news/)
 * [Will Lang](https://linktr.ee/Will.lang)
+* [LD Capital](https://ldcap.com/)
 
 ## Awesome Dao
 
@@ -56,6 +58,8 @@
 * [Open and transparent DeFi TVL and analytics](https://defillama.com/)
 * [Potential Retroactive DeFi Airdrops](https://airdrops.io/speculative/)
 * [Analysis of the top 100 ETH wallets on Ethereum](https://www.whalestats.com/analysis-of-the-top-100-eth-wallets)
+* [Track ETH online, watch ETH become ultra sound money](https://ultrasound.money/)
+* [Honeypot Detector for BSC Network: Simulates a buy and a sell transaction to determine if a token is a honeypot](https://honeypot.is/)
 * [DeFiEye: 充提币看板](https://tools.defieye.io/transferfee)
 * [CryptoSlam: NFT交易看板](https://www.cryptoslam.io/)
 * [CNToken: 国产土狗发射平台](https://cntoken.io/coins)
@@ -92,14 +96,26 @@
 
 * [ODaily](https://www.odaily.news/)
 * [PionexLite: Buy & Sell Bitcoin](https://lite.pionex.com/)
+* [FTX Card: Spend your FTX crypto balances at millions of merchants worldwide, zero fees](https://card.ftx.com/)
+* [SafePal: Manage crypto assets at your fingertips](https://docs.safepal.io/safepal-app/trade/binance-trading-dapp/login-to-binance-trading-dapp)
 * [Zerion: Invest in DeFi from one place](https://zerion.io/)
 * [Connext: Fast, trustless communication between chains and rollups](https://bridge.connext.network/)
 * [CryptoLasereyes: Choose your laser eyes and tell the world!](https://cryptolasereyes.com/)
 * [KYVE: Building the decentralized datalake](https://www.kyve.network/)
 * [Tulip: Solana's Yield Aggregation Homestead](https://tulip.garden/#home)
+* [Solana Name Service: Simplify transferring of funds, developing projects, and more](https://naming.bonfida.org/#/)
 * [DustSweeper: Allows users to swap small balance tokens (”dust”) for ETH without expensive gas transactions](https://launch.mirror.xyz/EwldfOSzRyv2uwOg8hCctXdvfps4LygGZnIR2j_mrJk)
 * [MyCointool: All the tools you’ll need to be more productive and work smarter with Coins](https://mycointool.com/en)
 * [Portal: A token bridge built on Wormhole](https://www.portalbridge.com/#/transfer)
+* [PolyMarket: A decentralized information markets platform](https://polymarket.com/)
+* [Project Galaxy: Powering On-chain Credentials](https://galaxy.eco/)
+* [Gitcoin: Discover and Fund Public Goods](https://gitcoin.co/grants/)
+* [GoGoDas: A future-proof, cross-chain decentralized account system](https://www.gogodas.com/)
+* [e-Residency: The new digital nation](https://www.e-resident.gov.ee/)
+* [LunarCrush: We listen to every drop of crypto information across social & distill it into digestible data to help you make informed decisions](https://lunarcrush.com/)
+* [Magic Eden: Solana's leading NFT marketplace](https://magiceden.io/)
+* [Cryptocurrency Calendar](https://coinmarketcal.com/en/)
+* [CryptoQuant: Comprehensive Crypto Data Analytics Tool](https://cryptoquant.com/asset/btc/summary)
 
 ## Awesome Web3 Product
 
